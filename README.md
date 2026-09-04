@@ -1,3 +1,10 @@
+> [!WARNING]
+> **This project has been archived.**
+>
+> Active development, improvements, bug fixes, and feature updates have been discontinued.
+>
+> The project will remain publicly available, and you are **free to use, fork, and modify it** according to the project's license. However, no further updates or official support are planned.
+
 # Pogy Bot
 
 Pogy Bot is a full Discord bot platform with a live web dashboard, moderation tools, anti-nuke protection, automod controls, music playback, command management, and guild configuration flows.
